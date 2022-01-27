@@ -15,7 +15,7 @@ struct Dividers: View {
             Circle()
                 .frame(width: 100, height: 100, alignment: .center)
             
-            Text("Black Circle")
+            Text("Black Circle.")
             
             Divider()
                 .frame(height: 4)

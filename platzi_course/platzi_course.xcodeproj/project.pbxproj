@@ -19,6 +19,8 @@
 		922FC2ED27A0F96800607557 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922FC2EC27A0F96800607557 /* Images.swift */; };
 		922FC2EF27A0FD4B00607557 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922FC2EE27A0FD4B00607557 /* TextFields.swift */; };
 		922FC2F127A10AEA00607557 /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922FC2F027A10AEA00607557 /* Dividers.swift */; };
+		926641D427A2396500C05C28 /* HstackVstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 926641D327A2396500C05C28 /* HstackVstack.swift */; };
+		926641D627A2418500C05C28 /* ZstackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 926641D527A2418500C05C28 /* ZstackPadding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +56,8 @@
 		922FC2EC27A0F96800607557 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		922FC2EE27A0FD4B00607557 /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
 		922FC2F027A10AEA00607557 /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
+		926641D327A2396500C05C28 /* HstackVstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HstackVstack.swift; sourceTree = "<group>"; };
+		926641D527A2418500C05C28 /* ZstackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstackPadding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +117,8 @@
 				922FC2EC27A0F96800607557 /* Images.swift */,
 				922FC2EE27A0FD4B00607557 /* TextFields.swift */,
 				922FC2F027A10AEA00607557 /* Dividers.swift */,
+				926641D327A2396500C05C28 /* HstackVstack.swift */,
+				926641D527A2418500C05C28 /* ZstackPadding.swift */,
 			);
 			path = platzi_course;
 			sourceTree = "<group>";
@@ -279,6 +285,8 @@
 				922FC2BF27A0E6C000607557 /* platzi_courseApp.swift in Sources */,
 				922FC2EB27A0EC3E00607557 /* Buttons.swift in Sources */,
 				922FC2EF27A0FD4B00607557 /* TextFields.swift in Sources */,
+				926641D427A2396500C05C28 /* HstackVstack.swift in Sources */,
+				926641D627A2418500C05C28 /* ZstackPadding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
