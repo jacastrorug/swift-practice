@@ -11,7 +11,7 @@ import SwiftUI
 struct platzi_courseApp: App {
     var body: some Scene {
         WindowGroup {
-            ZstackPadding()
+            Player()
         }
     }
 }
